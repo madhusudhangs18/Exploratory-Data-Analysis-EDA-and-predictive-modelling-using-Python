@@ -100,4 +100,7 @@ location-based features (longitude/latitude) to improve prediction accuracy.
 MBA — AI & Data Analytics (SAS)| SVYASA University, Bengaluru  
 📧 [LinkedIn](http://www.linkedin.com/in/madhusudhan-g-s-16786a241) | 
 
+**Supervised by**
+**Aishwarya Mishra** — AI Researcher
+
 
