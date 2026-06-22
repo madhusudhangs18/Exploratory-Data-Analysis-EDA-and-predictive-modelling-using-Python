@@ -71,7 +71,7 @@ What drives median house value across California block groups?
 2. DATA OVERVIEW
 - 3000 rows, 9 columns, california_housing_test.csv
 - No duplicate rows; total_bedrooms had some missing values, imputed with median
-- 
+  
 3. KEY EDA FINDINGS
 - median_income is right-skewed
 - median_income and median_house_value show a strong positive correlation (r ~ 0.68)
